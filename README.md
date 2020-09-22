@@ -10,7 +10,7 @@ IDE and Python, no modules as of yet.
 VS Code has a built-in runner, and Python is integrated, so no need for a build.
 
 ### Screenshot
-
+![screenshot of program working](https://github.com/adamsricks/Python-Example-1/blob/master/Screenshot%202020-09-22%20115734.png)
 
 ### Useful links
 [What's up with >if __name__ == "__main__"](https://stackoverflow.com/questions/419163/what-does-if-name-main-do#:~:text=In%20short%2C%20use%20this%20'%20if,when%20the%20module%20is%20imported.&text=Put%20simply%2C%20__name__,run%20as%20an%20imported%20module.)  
